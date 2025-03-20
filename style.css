@@ -1,5 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=MedievalSharp&display=swap');
 
+body {
+    background-color: #1a1a1a;
+    color: white;
+    
+
+}
+
+
 h1 {
     font-family: 'MedievalSharp', cursive;
     font-size: 100px;
@@ -17,5 +25,32 @@ h2 {
     font-size: 36px;
     color: darkred;
     background-color: rgb(255 127 127);
+    
 }
 
+#brownie-list{
+    text-align: center;
+    
+}
+
+#brownie{
+    background-color: darkred;
+    padding: 50px;
+    
+}
+
+.list{
+    padding: 10px;
+    background-color: brown;
+    border: 3px solid #6E260E;
+    display: block;
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+    
+}
+
+.list a {
+   
+   
+}
